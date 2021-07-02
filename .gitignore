@@ -3,8 +3,8 @@
 # directory/
 labeledTrainData.tsv
 model/
-
-
+kakaoapikey.txt
+etriaikey.txt
 
 
 # Byte-compiled / optimized / DLL files
