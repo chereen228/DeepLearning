@@ -1,11 +1,11 @@
 # .gitignore
 # file 명
 # directory/
-labeledTrainData.tsv
+chromedriver.exe
 model/
-kakaoapikey.txt
 etriaikey.txt
-exercise.ipynb
+kakaoapikey.txt
+hanspell/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
