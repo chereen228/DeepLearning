@@ -11,7 +11,11 @@ data/
 image/
 LDA/
 sentences/
-07.HKPJ/
+clustering/
+reg/
+reg2/
+regression/
+select/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
