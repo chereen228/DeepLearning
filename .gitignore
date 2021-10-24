@@ -6,11 +6,13 @@ model/
 etriaikey.txt
 kakaoapikey.txt
 hanspell/
-nvstore/
-sales/
-ssg/
-06.NHProject/
+crawl/
+data/
+image/
+LDA/
+sentences/
 07.HKPJ/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
